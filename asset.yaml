@@ -1,4 +1,4 @@
-# BUCKET - Emlak-Adverst
+# BUCKET - Adverst
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -157,7 +157,7 @@ spec:
     read: true==true
   order: 0
 ---
-# BUCKET - Emlak-Category
+# BUCKET - Category
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -192,7 +192,7 @@ spec:
     read: true==true
   order: 4
 ---
-# BUCKET - Emlak-Usefull-Link
+# BUCKET - Usefull-Link
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -222,7 +222,7 @@ spec:
     read: true==true
   order: 8
 ---
-# BUCKET - Emlak-Announcement
+# BUCKET - Announcement
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -252,7 +252,7 @@ spec:
     read: true==true
   order: 9
 ---
-# BUCKET - Emlak-Property
+# BUCKET - Property
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -286,7 +286,7 @@ spec:
     read: true==true
   order: 17
 ---
-# BUCKET - Emlak-Branch
+# BUCKET - Branch
 apiVersion: bucket/v1
 kind: Schema
 metadata:
@@ -412,7 +412,7 @@ spec:
     read: true==true
   order: 18
 ---
-# BUCKET - Emlak-Consultant
+# BUCKET - Consultant
 apiVersion: bucket/v1
 kind: Schema
 metadata:

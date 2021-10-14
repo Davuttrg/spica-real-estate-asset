@@ -26,8 +26,7 @@ spec:
     description:
       type: textarea
       title: description
-      description: |
-        description of adverst
+      description: description of adverst
       options:
         position: right
     adverst_date:

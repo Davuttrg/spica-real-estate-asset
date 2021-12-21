@@ -44,7 +44,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 0
+  order: 27
 ---
 # BUCKET - Adverst
 apiVersion: bucket/v1
@@ -286,7 +286,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 1
+  order: 28
 ---
 # BUCKET - Usefull Link
 apiVersion: bucket/v1
@@ -318,7 +318,6 @@ spec:
     read: true==true
   order: 2
 ---
-
 # BUCKET - Announcement
 apiVersion: bucket/v1
 kind: Schema
@@ -354,7 +353,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 4
+  order: 29
 ---
 # BUCKET - Category
 apiVersion: bucket/v1
@@ -389,8 +388,8 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 5
-  ---
+  order: 30
+---
 # BUCKET - About Us
 apiVersion: bucket/v1
 kind: Schema
@@ -454,4 +453,4 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 6
+  order: 31

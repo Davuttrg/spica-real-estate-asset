@@ -316,7 +316,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 2
+  order: 29
 ---
 # BUCKET - Announcement
 apiVersion: bucket/v1
@@ -353,7 +353,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 29
+  order: 30
 ---
 # BUCKET - Category
 apiVersion: bucket/v1
@@ -388,7 +388,7 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 30
+  order: 31
 ---
 # BUCKET - About Us
 apiVersion: bucket/v1
@@ -453,4 +453,4 @@ spec:
   acl:
     write: true==true
     read: true==true
-  order: 31
+  order: 32
